@@ -6,11 +6,11 @@
   padding: 20px;
   display: flex;
   justify-content: space-between;
-  background: #111;
+  background: transparent;
 }
 .logo {
   position: fixed;
- 
+
   width: 80px;
 }
 .avatar {
